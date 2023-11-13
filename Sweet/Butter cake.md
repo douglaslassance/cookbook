@@ -11,7 +11,9 @@
 77 g sour cream  
 79 ml milk
 
-## Add-ons
+## Mods
 
-- 250 g Frozen Blueberries: in dough before baking.
+- Half brown sugar for a more a molasses taste.
+- Mid and top layer of cinnamon, and brown sugar.
+- 250 g of floured frozen blueberries: in dough before baking.
 - [[Streusel]]: On top before baking.
