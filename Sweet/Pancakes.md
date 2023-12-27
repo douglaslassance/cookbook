@@ -1,6 +1,4 @@
-[Reference](https://www.youtube.com/watch?v=FLd00Bx4tOk)
-
-Egg = 50 g  
+[[Egg]] = 50 g  
 All-purpose flour = 420% of Egg  
 Baking powder = 32% of Egg  
 Salt = 1% of Egg  
@@ -13,3 +11,7 @@ Vanilla = 2% of Egg
 3. Fold liquid into dry ingredients until no lumps.
 4. The resulting dough should not be too runny.
 5. Cook at medium low heat in a pan for 2 minutes on each side.
+
+## Resources
+
+[Recipes by Carina](<https://www.youtube.com/watch?v=FLd00Bx4tOk>): We are following her recipe to a T.
