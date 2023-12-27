@@ -11,4 +11,4 @@
 
 ## Resources
 
-[Preppy Kitchen](https://www.youtube.com/watch?v=sqHU93cYtfI) We are following this recipe to a T.
+[Preppy Kitchen](https://www.youtube.com/watch?v=sqHU93cYtfI): We are following his recipe to a T.
