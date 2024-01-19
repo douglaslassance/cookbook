@@ -21,3 +21,4 @@ Vanilla = 1% of Eggs (optional)
 - [The Cooking Foodie](https://www.youtube.com/watch?v=7VTtenyKRg4): Our recipe is mostly derived from this.
 - [Eataly](https://www.eataly.com/us_en/magazine/recipes/dessert-recipes/traditional-tiramisu): They use less sugar.
 - [Broma Bakery](https://bromabakery.com/classic-tiramisu/): She uses more sugar.
+- [Massimo Bottura](https://guide.michelin.com/fr/fr/article/dining-in/veritable-recette-du-tiramisu-par-massimo-bottura-chef-de-l-osteria-francescana): No egg whites.
