@@ -14,4 +14,9 @@ Vanilla = 2% of Egg
 
 ## Resources
 
-[Recipes by Carina](<https://www.youtube.com/watch?v=FLd00Bx4tOk>): We are following her recipe to a T.
+[Recipes by Carina](https://www.youtube.com/watch?v=FLd00Bx4tOk): We are following her recipe to a T.
+
+## Mods
+
+- Make them more fluffy by beating egg whites separately and introducing them between step 3 and 4.
+- Swap some of the milk for half the weight of ripe banana purée.
