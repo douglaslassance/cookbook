@@ -7,10 +7,11 @@ Salt = 1% of Eggs
 2. Add the egg, crème fraîche, salt and pepper.
 3. Place ramekins in a pan.
 4. Fill pan with hot water.
-5. Put in the oven at 500 °F for 10 minutes..
+5. Put in the oven at 350 °F for 10 minutes.
 
 ## Mods
 
 - Add pre-cooked bacon on step 2.
 - Add green onions on step 2.
+- Add chives on step 2.
 - Add grated cheese on step 2.
