@@ -1,4 +1,5 @@
 [
   "obsidian-linter",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-git"
 ]
