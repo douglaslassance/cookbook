@@ -19,4 +19,4 @@ Vanilla = 2% of Egg
 ## Mods
 
 - Make them more fluffy by beating egg whites separately and introducing them between step 3 and 4.
-- Swap some of the milk for half the weight of ripe banana purée.
+- Swap some of the milk weight for ripe banana purée.
