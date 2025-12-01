@@ -14,3 +14,7 @@ Salt = 40% of Starter
 ## Mods
 
 - Replace the whole wheat flour with dark rye flour.
+
+## Resources
+* [Jason Weissman](https://youtu.be/jJpIzr2sCDE?si=z8GFkX3oynhp6uGz)
+* [Brian Lagerstrom](https://youtu.be/VEtU4Co08yY?si=AAfc1vqpyf7K241t)
