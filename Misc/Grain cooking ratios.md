@@ -1,4 +1,4 @@
-The technique for grains is generally the same.
+[]()The technique for grains is generally the same.
 
 1. Rinse the grains.
 2. Pour into the pot along with the corresponding water ratio.
