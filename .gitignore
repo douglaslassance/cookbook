@@ -1,2 +1,5 @@
 .DS_Store
 .obsidian/workspace.json
+
+# Claude Code local state
+.claude/
